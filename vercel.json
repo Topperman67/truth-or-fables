@@ -1,8 +1,0 @@
-{
-  "cleanUrls": true,
-  "trailingSlash": false,
-  "rewrites": [
-    { "source": "/library/:id", "destination": "/library/:id.html" },
-    { "source": "/library/articles/:slug", "destination": "/library/articles/:slug.html" }
-  ]
-}
